@@ -25,7 +25,6 @@ HR Data- [HR Data Set.xlsx](https://github.com/user-attachments/files/21035469/H
 
 ## Excel Dashboard
 
-[![Attrition Dashboard](https://github.com/user-attachments/assets/9a6234b8-3be9-4b7e-ae29-fa0969bbfe43)](https://github.com/sahanashivakumar30/HR-Data-Analysis/blob/cb0860643bc2e0efe907b8f2b2b44f61ba60efbd/Dashboard.PNG)
 
 
 ## Key Insights
