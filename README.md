@@ -25,7 +25,7 @@ HR Data- [HR Data Set.xlsx](https://github.com/user-attachments/files/21035469/H
 
 ## Excel Dashboard
 
-
+https://github.com/sahanashivakumar30/HR-Data-Analysis/blob/ba36fd562be0e41d3292776bda16b3ac8c6eba9b/Dashboard.PNG
 
 ## Key Insights
 -	Overall Attrition Rate: Out of a total of 1,470 employees, 237 left the company, resulting in an attrition rate of approximately 16.1%.
