@@ -25,6 +25,8 @@ HR Data- [HR Data Set.xlsx](https://github.com/user-attachments/files/21035469/H
 
 ## Excel Dashboard
 
+<img width="1736" height="817" alt="Dashboard" src="https://github.com/user-attachments/assets/d6c7ea98-e695-4519-a858-3672a419224e" />
+
 https://github.com/sahanashivakumar30/HR-Data-Analysis/blob/ba36fd562be0e41d3292776bda16b3ac8c6eba9b/Dashboard.PNG
 
 ## Key Insights
